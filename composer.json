@@ -1,5 +1,5 @@
 {
-  "name": "openmage/magento-lts",
+  "name": "proxium/magento-lts",
   "license": "OSL-3.0",
   "type": "magento-core",
   "require": {
